@@ -5,5 +5,5 @@ api:
 networking:
   podSubnet: "10.244.0.0/16"
 kubernetesVersion: "v1.11.3"
-imageRepository: "172.17.253.187:5000"
+imageRepository: "172.17.253.188:5000"
 
